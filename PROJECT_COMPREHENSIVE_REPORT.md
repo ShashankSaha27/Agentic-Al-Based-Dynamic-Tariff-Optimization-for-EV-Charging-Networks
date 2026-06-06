@@ -16,9 +16,6 @@
 
 **Language:** Python (100% - 21,407 bytes)
 
-**Created:** 10 hours ago
-
-**Last Updated:** June 2, 2026
 
 ---
 
@@ -548,7 +545,7 @@ streamlit run app.py
 
 ---
 
-## **17. CONTRIBUTIONS & TEAM**
+## **16. CONTRIBUTIONS & TEAM**
 
 | Contributor | Role | Affiliation |
 |-------------|------|-------------|
@@ -560,7 +557,7 @@ streamlit run app.py
 
 ---
 
-## **18. TECHNICAL SPECIFICATIONS**
+## **17. TECHNICAL SPECIFICATIONS**
 
 | Aspect | Specification |
 |--------|---------------|
@@ -574,7 +571,7 @@ streamlit run app.py
 
 ---
 
-## **19. INSTALLATION & USAGE QUICK START**
+## **18. INSTALLATION & USAGE QUICK START**
 
 ```bash
 # 1. Clone repository
@@ -605,7 +602,7 @@ streamlit run app.py
 
 ---
 
-## **20. CONCLUSION**
+## **19. CONCLUSION**
 
 This project demonstrates a **production-ready AI system** for **dynamic EV charging tariff optimization**. It combines:
 
@@ -626,8 +623,7 @@ The system delivers measurable value through:
 **This work exemplifies how AI and machine learning drive innovation in sustainable smart-energy ecosystems.**
 
 ---
-
-**Generated on:** June 2, 2026  
+ 
 **Repository:** https://github.com/ShashankSaha27/Agentic-Al-Based-Dynamic-Tariff-Optimization-for-EV-Charging-Networks
 **Status:** ✅ Complete & Production-Ready
 
